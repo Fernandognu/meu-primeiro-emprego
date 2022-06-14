@@ -13,20 +13,20 @@ Teremos uma lista com tarefas que você pode aplicar no seu dia-a-dia para conse
 
 
 ### Inicio
-- [ ] Criar conta no [github](https://github.com/).
-- [ ] Criar conta no [linkedin](https://www.linkedin.com/)
+- [x] Criar conta no [github](https://github.com/).
+- [x] Criar conta no [linkedin](https://www.linkedin.com/)
 
 ### Recomendações Github:
 - [ ] Criar um site no [GitHub Pages](https://pages.github.com/)
 - [ ] Personalizar sua conta no github. 
-  - [ ] [Videos com passo a passo](https://www.youtube.com/watch?v=TsaLQAetPLU)
+  - [x] [Videos com passo a passo](https://www.youtube.com/watch?v=TsaLQAetPLU)
 - [ ] Fazer um commit pelo menos uma vez por semana (Recorrente).
 - [ ] Fazer readme em todos os seus projetos.
 - [ ] Tentar fazer commit mais profissionais possivel.
   - [ ] Recomendação: https://www.youtube.com/watch?v=OJqUWvmf4gg
 
 ### Recomendações Linkedin:
-- [ ] Completar todo o cadastro.
+- [x] Completar todo o cadastro.
 - [ ] Criar headline sinalizando sua pretenção.
 - [ ] Adicionar todos os profissionais de RH que encontrar.
 - [ ] Postar 1 vez por semana na rede algum conteudo.(Quem não é visto, não e lembrado)
